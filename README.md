@@ -1,3 +1,23 @@
+# Project Name: Poll Simulator
+Here I have tried using **ReactJS, Redux, HTML, CSS** for simulating the smooth transition of _step-wise process_ of voting and relevant activities.
+
+**Initial Screen** will be displayed something like this: 
+![image](https://user-images.githubusercontent.com/60847439/129946108-8950827b-cd09-4f87-a15f-89eb95833c71.png)
+
+Tapping on the **Become Candidate** given on left, it will redirect you to a page which looks like this:
+![image](https://user-images.githubusercontent.com/60847439/129945050-0617c362-36f3-4f0f-9def-e6200ad7b01d.png)
+
+Such **confirmation** will be given whensoever a candidate will be added:
+![image](https://user-images.githubusercontent.com/60847439/129946638-17f6cccd-63c5-4349-ac38-06ffd1e7459c.png)
+
+**Cast Vote** will feature such list of candidates and _double verification_ i.e., asking for the **VoterID** as well as **selecting the candidate name** will be processed:
+![image](https://user-images.githubusercontent.com/60847439/129948560-ca417d50-a732-4e2d-aa15-8c0b86837468.png)
+## Validations are provided to prevent the cases where incorrect information might have been entered by the user.
+
+Ultimately, **final window** will be displayed indicating **the number of votes received by each user** and declaring the final winner amongst the participating candidates: 
+![image](https://user-images.githubusercontent.com/60847439/129948819-87dcdc12-a83a-41ab-8ca2-5af039b97c63.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
