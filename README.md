@@ -10,7 +10,7 @@ Tapping on the **Become Candidate** given on left, it will redirect you to a pag
 Such **confirmation** will be given whensoever a candidate will be added:
 ![image](https://user-images.githubusercontent.com/60847439/129946638-17f6cccd-63c5-4349-ac38-06ffd1e7459c.png)
 
-**Cast Vote** will feature such list of candidates and _double verification_ i.e., asking for the **VoterID** as well as **selecting the candidate name** will be processed:
+**Cast Vote** will feature such list of candidates and _double verification_ i.e., asking for the **VoterID**, so that no voter will vote for more than once as well as **selecting the candidate name** will be processed:
 ![image](https://user-images.githubusercontent.com/60847439/129948560-ca417d50-a732-4e2d-aa15-8c0b86837468.png)
 ## Validations are provided to prevent the cases where incorrect information might have been entered by the user.
 
