@@ -36,7 +36,7 @@ const BecomeCandidate = () => {
                             <input type="text" value={candidateId} onChange={(e) => setCandidateId(e.target.value)} />    
                         </div>
                         <div className="inputLabelContainer">
-                            Candidate Id
+                            Candidate ID
                         </div>
                     </div>
                     <div>

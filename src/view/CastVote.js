@@ -36,7 +36,7 @@ const CastVote = () => {
                         </div>
                         
                         <div className="inputLabelContainer">
-                            Voter Id
+                            Voter ID
                         </div>
                     </div>
                     {

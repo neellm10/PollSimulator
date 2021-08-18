@@ -5,7 +5,7 @@
     justify-content: space-between;
     align-items: center;
     height: 761px;
-    background-color: black;
+    background-color: lightblue;
 }
 
 .header{
@@ -47,8 +47,7 @@
     justify-content: center;
     align-items: center;
     background-color: lightblue;
-    border-bottom: 1px solid #222222;
-    border-right: 1px solid #222222;
+    box-shadow: #222222 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
 .headerSub{
     display: flex;
@@ -90,6 +89,9 @@
     width: 200px;
     color: black;
     /* text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black; */
+}
+label{
+    color:rgb(216, 79, 102);
 }
 .inputBoxContainer{
     height: 60px;
